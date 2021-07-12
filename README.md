@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ramseymc
 - 👀 I’m interested in technology, cryptocurriencies
-- 🌱 I’m currently learning c#, .NET, mySQL
+- 🌱 I’m currently learning VUE.js, Vuetify
+- Profficcient with mySQL, C#, VB.NET and JavaScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me connorm11111@gmail.com, include in subject 'GitHub Colab'
 
