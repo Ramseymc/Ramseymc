@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ramseymc
 - 👀 I’m interested in technology, cryptocurriencies
-- 🌱 I’m currently learning VUE.js, Vuetify
+- 🌱 I’m currently learning VUE.js, Vuetify, MongoDB
 - Profficcient with mySQL, C#, VB.NET and JavaScript
-- Vue.js, React, Wordpress plugins
+- Vue.js, React, MongoDB, Wordpress plugins
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me connormdev@gmail.com, include in subject 'GitHub Colab'
 
